@@ -5,7 +5,7 @@
     "category": "Star Wars",
     "price": "60.00",
     "url": "assets/img/productos/starwar_glass1.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor"
   },
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag3",
@@ -13,7 +13,7 @@
     "category": "Star Wars",
     "price": " 50,00",
     "url": "assets/img/productos/master_yoda.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag4",
@@ -21,7 +21,7 @@
     "category": "Star Wars",
     "price": "15499",
     "url": "assets/img/productos/dark_vader-lego.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },	
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag1",
@@ -29,7 +29,7 @@
     "category": "Star Wars",
     "price": "  30,55",
     "url": "assets/img/productos/soldier.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag2",
@@ -37,7 +37,7 @@
     "category": "Star Wars",
     "price": " 90,00",
     "url": "assets/img/productos/baby_yoda.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ag6",
@@ -45,7 +45,7 @@
     "category": "Star Wars",
     "price": " 120,00",
     "url": "assets/img/productos/dark_bader.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
     
   {
@@ -54,7 +54,7 @@
     "category": "Consolas",
     "price": "  60,00",
     "url": "assets/img/productos/consolas/control1.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
   
     
@@ -64,7 +64,7 @@
     "category": "Consolas",
     "price": " 1,000.00",
     "url": "assets/img/productos/consolas/ps5_blue.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac3",
@@ -72,7 +72,7 @@
     "category": "Consolas",
     "price": " 700,00",
     "url": "assets/img/productos/consolas/xbox.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },	
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0ac4",
@@ -80,7 +80,7 @@
     "category": "Consolas",
     "price": "  30,55",
     "url": "assets/img/productos/consolas/control_nintendo-switch.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
 
   {
@@ -89,7 +89,7 @@
     "category": "Consolas",
     "price": " 200,00",
     "url": "assets/img/productos/consolas/nintendo1.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa1",
@@ -97,7 +97,7 @@
     "category": "Diversos",
     "price": " 120,00",
     "url": "assets/img/productos/diversos/traje%20pikashu.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa2",
@@ -105,7 +105,7 @@
     "category": "Diversos",
     "price": " 700,00",
     "url": "assets/img/productos/diversos/control%20y%20consola2.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
     
   {
@@ -114,7 +114,7 @@
     "category": "Diversos",
     "price": " 20,55",
     "url": "assets/img/productos/diversos/radio.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },      
   
   {
@@ -123,7 +123,7 @@
     "category": "Diversos",
     "price": " 40,00",
     "url": "assets/img/productos/diversos/sony.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
 
   {
@@ -132,7 +132,7 @@
     "category": "Diversos",
     "price": " 60,00",
     "url": "assets/img/productos/diversos/tshirt_nintendo.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   },
   {
     "id": "fc8b0131-6520-489d-a0c2-dfcccd7f0aa6",
@@ -140,6 +140,6 @@
     "category": "Diversos",
     "price": " 60,00",
     "url": "assets/img/productos/diversos/tshirt1.png",
-    "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere accusantium ullam animi labore aliquid fugit dicta, id ad natus deserunt impedit magni veritatis, fugiat necessitatibus quo commodi ea blanditiis nostrum! Recusandae repudiandae obcaecati asperiores exercitationem ducimus nesciunt quo. Voluptas hic facere officia magnam nulla voluptatem recusandae tempora sed incidunt dolor!"
+    "description": "Lorem ipsum dolor, "
   }
 ]
